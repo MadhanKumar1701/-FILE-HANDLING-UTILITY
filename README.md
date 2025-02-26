@@ -41,3 +41,7 @@ Through this task, I gained practical experience in:
 - **Understanding the role of file handling** in real-world applications like logging, data management, and configuration storage  
 
 This task helped me understand how Java handles files and how file operations are useful in software development.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/6af34e63-3439-46f5-a766-b96e5e60601d)
